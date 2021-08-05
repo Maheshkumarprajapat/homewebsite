@@ -1,0 +1,35 @@
+@media (max-width:1199px) {
+    #banner-slider .owl-nav button.owl-prev {left: 0px;float: left;}
+    #banner-slider .owl-nav button.owl-next {right: 0px;float: right;}
+}
+@media (max-width:991px) {
+    .navbar-nav .nav-item{padding: 10px;}
+    header .header-icons .header-icons-left {padding-bottom: 10px;}
+    .card-tab{margin-bottom: 60px;}
+    .about-section .box .about-img img {width: 100%;}
+    .about-section.section-padding {padding: 0px 0px;}
+    .service-section.section-padding {padding: 0px 0px;}
+    .team-section.section-padding {padding: 20px 0px;}
+    .contact-text, .contact-blog, .contact-newsletter {padding-bottom: 30px;}
+    .contact-section.section-padding{padding: 30px 0px 0px 0px;}
+}
+@media (max-width:767px) {
+    header .header-icons {display: none;}
+    .heading{ font-size: 30px;}
+    .heading span{ font-size: 30px;}
+    .heading-tab{text-align: center;}
+    .heading-tab p br{display: none;}
+    .blog-section .box{text-align: center;padding-bottom: 0px}
+}
+@media (max-width:576px) {
+    .banner-caption .banner-heading{font-size: 40px;}
+    #banner-slider .owl-nav button.owl-prev {left: 30px;}
+    #banner-slider .owl-nav button.owl-next {right: 30px;}
+    .heading{ font-size: 30px;}
+    .heading span{ font-size: 30px;}
+    .heading-tab{text-align: center;}
+    .heading-tab p br{display: none;}
+    .about-section .about-content h3{font-size: 20px;}
+    .blog-section .box{text-align: center;padding-bottom: 0px}
+    .btn-blocks{padding-bottom: 20px;}
+}
